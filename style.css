@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Grandstander&family=Prompt:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander&family=Prompt:ital,wght@0,900;1,300;1,400&display=swap');
 
 body{
   background-color: #eee7e1;
@@ -49,6 +49,9 @@ body{
   justify-content: center;
   align-items: flex-start;
   display: flex;
+  font-family: 'Prompt', sans-serif;
+  font-weight: 300;
+
 
 }
 a{
@@ -93,6 +96,13 @@ h1{
   }
 }
 
+h2{
+  font-size: 40px;
+  font-family: 'Prompt', sans-serif;
+
+
+}
+
 #animatedTitleWork:hover,
 #animatedTitleAbout:hover,
 #animatedTitleShop:hover,
@@ -118,6 +128,7 @@ h1{
   padding-right: 15px;
   transform: rotate(-90deg);
 }
+
 
 .nav-left-item.nav-copyright {
   width: 110px;
@@ -256,6 +267,7 @@ p{
   font-size: 15x;
   line-height: 22px;
   color: white;
+  font-family: 300;
 }
 body {
   height: 100vh;
