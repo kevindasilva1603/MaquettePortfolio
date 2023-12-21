@@ -55,7 +55,7 @@ body{
 
 }
 a{
-  text-decoration: none;color: white;
+  text-decoration: none;color: #ece7e1;
 }
 .wrapper{
   max-width: 90%;
@@ -69,7 +69,7 @@ a{
 h1{
   font-family: 'Prompt', sans-serif;
   z-index: 100;
-    color: white
+    color: #ece7e1
     ;
     text-align: left;
     text-transform: uppercase;
@@ -99,6 +99,7 @@ h1{
 h2{
   font-size: 40px;
   font-family: 'Prompt', sans-serif;
+  color: #ece7e1
 
 
 }
@@ -127,6 +128,7 @@ h2{
   padding-left: 20px;
   padding-right: 15px;
   transform: rotate(-90deg);
+  color: #ece7e1;
 }
 
 
@@ -139,7 +141,7 @@ h2{
 .nav-line {
   width: 1px;
   height: 100px;
-  background-color: #ffffff;
+  background-color: #ece7e1;
   margin-top: 10px;
   margin-bottom: 80px;
 }
@@ -150,7 +152,7 @@ h2{
   font-family: Montserrat, sans-serif;
   font-size: 10px;
   font-weight: 500;
-  color: white;
+  color: #ece7e1;
 }
 
 
@@ -266,7 +268,7 @@ h2{
 p{
   font-size: 15x;
   line-height: 22px;
-  color: white;
+  color: #ece7e1;
   font-family: 300;
 }
 body {
@@ -274,11 +276,11 @@ body {
   width: 100vw;
   overflow: hidden;
   background: radial-gradient(circle at center, #222, #000);
-  color: white;
+  color: #ece7e1;
 }
 body #speedcapture {
   opacity: 0.25;
-  color: white;
+  color: #ece7e1;
 }
 body .ghost {
   width: 100px;

@@ -1,13 +1,13 @@
 // document.addEventListener('DOMContentLoaded', function () {
 //     const animatedTitle = document.getElementById('animatedTitle');
   
-//     animatedTitle.addEventListener('mouseenter', () => {
-//       animatedTitle.style.animationPlayState = 'paused';
-//     });
+//     // animatedTitle.addEventListener('mouseenter', () => {
+//     //   animatedTitle.style.animationPlayState = 'paused';
+//     // });
   
-//     animatedTitle.addEventListener('mouseleave', () => {
-//       animatedTitle.style.animationPlayState = 'running';
-//     });
+//     // animatedTitle.addEventListener('mouseleave', () => {
+//     //   animatedTitle.style.animationPlayState = 'running';
+//     // });
   
 //     // Effet de curseur
 //     document.addEventListener('mousemove', (event) => {
