@@ -40,3 +40,8 @@
     }, 3000); // Simulez un chargement de 3 secondes (à remplacer par le chargement réel)
   });
   
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelector('.work').addEventListener('click', function() {
+        window.location.href = 'work.html';
+    });
+});
